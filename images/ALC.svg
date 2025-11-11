@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="350"
+   height="280"
+   viewBox="0 0 92.604168 74.083333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="ALC.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.8535714"
+     inkscape:cx="175.0438"
+     inkscape:cy="140"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-7"
+     inkscape:window-y="-7"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#00708d;stroke-width:1.765;stroke-linecap:round"
+       id="path3"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="58.977444"
+       sodipodi:cy="27.267265"
+       sodipodi:r1="14.479328"
+       sodipodi:r2="7.2396641"
+       sodipodi:arg1="0.80667155"
+       sodipodi:arg2="1.8538691"
+       inkscape:rounded="0.19"
+       inkscape:randomized="0"
+       d="M 68.995768,37.721169 C 65.555497,41.018097 46.050021,35.344263 44.914935,30.716437 43.779848,26.088611 58.446269,12.03329 63.021628,13.364189 c 4.575358,1.3309 9.414412,21.060053 5.97414,24.35698 z"
+       inkscape:transform-center-x="-0.098710808"
+       inkscape:transform-center-y="-2.5420973"
+       transform="matrix(-0.89887953,-0.83691913,0.83691913,-0.89887953,76.396495,109.41128)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.0818px;line-height:1.25;font-family:Butterlate;-inkscape-font-specification:'Butterlate, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ececec;stroke-width:0.507783"
+       x="34.890171"
+       y="42.45467"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.0818px;font-family:Butterlate;-inkscape-font-specification:'Butterlate, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ececec;stroke-width:0.507783"
+         x="34.890171"
+         y="42.45467">alc</tspan></text>
+    <g
+       id="g4"
+       transform="translate(1.2248854,-4.041823)"
+       style="fill:#00708d;fill-opacity:1">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:Candara;-inkscape-font-specification:'Candara, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00708d;stroke-width:0.264583;fill-opacity:1"
+         x="33.626728"
+         y="57.322235"
+         id="text2"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:Candara;-inkscape-font-specification:'Candara, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00708d;stroke-width:0.264583;fill-opacity:1"
+           x="33.626728"
+           y="57.322235">admin line</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.98826px;line-height:1.25;font-family:Candara;-inkscape-font-specification:'Candara, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00708d;stroke-width:0.249266;fill-opacity:1"
+         x="33.638573"
+         y="60.288845"
+         id="text3"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.98826px;font-family:Candara;-inkscape-font-specification:'Candara, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00708d;stroke-width:0.249266;fill-opacity:1"
+           x="33.638573"
+           y="60.288845">consultations</tspan></text>
+    </g>
+  </g>
+</svg>

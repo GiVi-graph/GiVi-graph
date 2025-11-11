@@ -1,16 +1,30 @@
-## Hi there 👋
+# GiViGraph Logo Gallery
 
-<!--
-**GiVi-graph/GiVi-graph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A curated archive of logo designs created by **GiViGraph**.  
+Each mark explores identity through **geometry, symbolism, and minimalism**, presented with professional mockups and bilingual descriptions.
 
-Here are some ideas to get you started:
+##  About
+This portfolio collects logos structured for reference, analysis, and visual documentation.  
+The gallery highlights:- Geometric breakdowns
+- Narrative symbolism
+- Delivery formats (SVG, PNG, PDF)
+- Typographic simulations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Pages
+- [Logo Gallery](https://givi-graph.github.io/GiVigraph//index.html) – Main archive of curated logos  
+- [Logo Anatomy](https://givi-graph.github.io/GiVigraph//generic.html) – Technical insights and design breakdowns  
+
+## Features
+- Minimalist, modular HTML/CSS architecture  
+- SEO-friendly structure with meta tags, Open Graph, and Schema.org  
+- Responsive layout optimized for GitHub Pages  
+- Lightbox for fullscreen logo previews  
+- Contact form powered by Formspree  
+
+## Contact
+For collaborations or inquiries:  
+**GiViGraph@proton.me**
+
+---
+
+© GiViGraph – Portfolio hosted on [GitHub Pages](https://pages.github.com/)

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933334 16.933333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="GiVi-graph.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="11.59375"
+     inkscape:cx="32"
+     inkscape:cy="31.956873"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-7"
+     inkscape:window-y="-7"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke-width:0.4;stroke-linecap:round;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
+       id="path1"
+       sodipodi:type="arc"
+       sodipodi:cx="8.4666662"
+       sodipodi:cy="8.4666662"
+       sodipodi:rx="7.279964"
+       sodipodi:ry="7.279964"
+       sodipodi:start="3.1413522"
+       sodipodi:end="3.1162236"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="M 1.1867025,8.4684167 A 7.279964,7.279964 0 0 1 8.4191822,1.1868571 7.279964,7.279964 0 0 1 15.746033,8.3734506 7.279964,7.279964 0 0 1 8.6056098,15.745304 7.279964,7.279964 0 0 1 1.1890448,8.6513322" />
+    <g
+       id="g3"
+       transform="translate(0,-1.7054833)">
+      <text
+         xml:space="preserve"
+         style="font-size:4.08152px;line-height:1.25;font-family:Elephant;-inkscape-font-specification:'Elephant, Normal';stroke-width:0.153057"
+         x="2.5729506"
+         y="9.9523411"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="stroke-width:0.153057"
+           x="2.5729506"
+           y="9.9523411">Gi.Vi.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.31184px;line-height:1.25;font-family:Elephant;-inkscape-font-specification:'Elephant, Normal';stroke-width:0.124194"
+         x="4.0040936"
+         y="12.634005"
+         id="text2"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           style="stroke-width:0.124194"
+           x="4.0040936"
+           y="12.634005">graph</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.124194"
+           x="4.0040936"
+           y="16.773804"
+           id="tspan3" /></text>
+    </g>
+  </g>
+</svg>

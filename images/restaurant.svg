@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="350"
+   height="280"
+   viewBox="0 0 92.604168 74.083333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="restaurant.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.9981328"
+     inkscape:cx="145.75739"
+     inkscape:cy="92.224068"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-7"
+     inkscape:window-y="-7"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3"
+       transform="translate(-16.581961,18.040336)"
+       style="fill:none">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path3"
+         sodipodi:type="arc"
+         sodipodi:cx="46.083679"
+         sodipodi:cy="19.001324"
+         sodipodi:rx="6.7623124"
+         sodipodi:ry="6.7623124"
+         sodipodi:start="3.7816808"
+         sodipodi:end="3.7770394"
+         sodipodi:open="true"
+         sodipodi:arc-type="arc"
+         d="m 40.660013,14.962423 a 6.7623124,6.7623124 0 0 1 9.45627,-1.389448 6.7623124,6.7623124 0 0 1 1.400421,9.454651 6.7623124,6.7623124 0 0 1 -9.453021,1.411391 6.7623124,6.7623124 0 0 1 -1.422358,-9.451377" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path2"
+         sodipodi:type="arc"
+         sodipodi:cx="46.083675"
+         sodipodi:cy="19.001326"
+         sodipodi:rx="4.1329279"
+         sodipodi:ry="4.1329279"
+         sodipodi:start="3.7816808"
+         sodipodi:end="3.7770394"
+         sodipodi:open="true"
+         sodipodi:arc-type="arc"
+         d="m 42.768889,16.532868 a 4.1329279,4.1329279 0 0 1 5.779396,-0.849191 4.1329279,4.1329279 0 0 1 0.855896,5.778407 4.1329279,4.1329279 0 0 1 -5.77741,0.862601 4.1329279,4.1329279 0 0 1 -0.869303,-5.776406" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:8.81944px;line-height:1.25;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans, Normal';stroke-width:0.264583"
+       x="26.67318"
+       y="40.10318"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="stroke-width:0.264583"
+         x="26.67318"
+         y="40.10318">Restaurant</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.0478413;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect1"
+       width="0.62142807"
+       height="3.8034914"
+       x="29.436703"
+       y="36.790039" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.0531494;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect2"
+       width="1.0314523"
+       height="2.8282242"
+       x="28.760437"
+       y="36.793045" />
+  </g>
+</svg>

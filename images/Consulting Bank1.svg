@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="350"
+   height="280"
+   viewBox="0 0 92.604168 74.083333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="Consulting Bank1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.12"
+     inkscape:cx="175"
+     inkscape:cy="139.85849"
+     inkscape:window-width="1906"
+     inkscape:window-height="987"
+     inkscape:window-x="247"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g7"
+       transform="translate(11.066797,21.929753)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.0369px;line-height:1.25;font-family:'Felix Titling';-inkscape-font-specification:'Felix Titling, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.168204"
+         x="17.431253"
+         y="14.378372"
+         id="text4"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.0369px;font-family:'Felix Titling';-inkscape-font-specification:'Felix Titling, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.168204"
+           x="17.431253"
+           y="14.378372">Consulting</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.275964px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m 17.629237,15.100265 31.273519,0.123536 -4.262075,-1.850497 v 3.674845"
+         id="path4"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#fd1a0d;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path6"
+         sodipodi:type="arc"
+         sodipodi:cx="51.544079"
+         sodipodi:cy="15.328133"
+         sodipodi:rx="1.4352397"
+         sodipodi:ry="1.372838"
+         sodipodi:start="3.7816808"
+         sodipodi:end="3.7770394"
+         sodipodi:open="true"
+         sodipodi:arc-type="arc"
+         d="m 50.392955,14.508183 a 1.4352397,1.372838 0 0 1 2.007008,-0.282076 1.4352397,1.372838 0 0 1 0.297226,1.919418 1.4352397,1.372838 0 0 1 -2.006318,0.286531 1.4352397,1.372838 0 0 1 -0.301883,-1.918754" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Felix Titling';-inkscape-font-specification:'Felix Titling, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="32.573704"
+         y="18.815371"
+         id="text6"><tspan
+           sodipodi:role="line"
+           id="tspan6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Felix Titling';-inkscape-font-specification:'Felix Titling, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="32.573704"
+           y="18.815371">bank</tspan></text>
+    </g>
+  </g>
+</svg>
