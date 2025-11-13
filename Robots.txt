@@ -2,5 +2,6 @@ User-agent: *
 Allow: /
 Sitemap: User-agent: *
 Allow: /
-Sitemap: https://GiVi-graph.github.io/GiVigraph/sitemap.xml
+Sitemap: https://givi-graph.github.io/GiVi-graph/sitemap.xml
+
 
