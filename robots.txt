@@ -1,4 +1,10 @@
 User-agent: *
 Allow: /
 
+# Non bloccare risorse statiche (CSS, JS, font, immagini)
+Allow: /assets/
+Allow: /images/
+
+# Indica esplicitamente il sitemap
 Sitemap: https://givi-graph.github.io/GiVi-graph/sitemap.xml
+
